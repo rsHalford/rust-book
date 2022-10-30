@@ -1,2 +1,2 @@
-chapter 5: Structs
-https://doc.rust-lang.org/book/ch05-00-structs.html
+chapter 9: Error Handling
+https://doc.rust-lang.org/book/ch09-00-error-handling.html
